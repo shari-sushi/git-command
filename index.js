@@ -1,1 +1,2 @@
-const a = "1: rebaseで統合先になる予定のコミット";
+const a = "1: main first commit";
+const b = "2: rebaseで編集される予定のコミットオオオ";
